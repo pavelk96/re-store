@@ -1,2 +1,5 @@
-import compose from "./compose";
-export {compose};
+import compose from './compose';
+
+export {
+  compose
+};
